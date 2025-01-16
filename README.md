@@ -28,13 +28,6 @@ Below, you can find images and videos showcasing the desktop version of the game
 
 ---
 
-## Installation
-1. **Download the Game Files**: Obtain the game files from the official repository or game store.
-2. **Set Up Your VR System**: Connect your VR headset and ensure it is configured correctly for your PC.
-3. **Launch the Game**: Start the game through your VR platform and enjoy the immersive experience.
-
----
-
 ## System Requirements
 - **VR Headset**: Compatible with Unity and VR platforms (Oculus Rift, HTC Vive, etc.)
 - **PC Requirements**: Ensure your PC meets the specifications for running VR games smoothly.
